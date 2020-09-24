@@ -22,26 +22,19 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>熟悉JAVA开发语言，了解Python/C/C++语言，具有较好的编程能力和多种软件的开发经验；</li>
+	<li>熟悉HTML，JavaScript等前端知识，具有一定 的前端和服务端的开发能力。</li>
+	<li>熟悉面向对象设计及常用设计模式；</li>
+	<li>熟悉MySQL、SQL Server等数据库软件的使用，具有一定的数据库设计能力；</li>
+	<li>专业课程和软件息息相关，熟悉项目开发全过程，懂得团队协作</li>
+	
 </ul>
 
-<h2>Projects</h2>
+<h2>Certificates</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>英语四级证书</li>
+	<li>普通话二级乙等证书</li>
+	<li>《理了么APP》软件著作权，登记号：2019SR1403164</li>
+	<li>2020中国大学生计算机设计大赛河北省级赛三等奖</li>
 </ul>
